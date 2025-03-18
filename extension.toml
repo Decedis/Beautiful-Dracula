@@ -1,0 +1,7 @@
+id = "beautiful dracula darker"
+name = "Beautiful Dracula Darker"
+schema_version = 1
+version = "0.0.1"
+authors = ["Decedis"]
+description = "Another base on Dracula Official Theme fork, but with darker colors"
+repository = "https://github.com/decedis/beautiful-dracula"
